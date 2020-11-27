@@ -143,7 +143,7 @@ defaults:
           label: Home
           url: /
         -
-          label: Tags
+          label: Etiquetas
           url: /tabs/tags/
   -
     scope:
@@ -154,7 +154,7 @@ defaults:
           label: Home
           url: /
         -
-          label: Categories
+          label: Categorias
           url: /tabs/categories/
   -
     scope:

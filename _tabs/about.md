@@ -10,6 +10,6 @@ order: 4
 # MIT License
 ---
 
-Profesor, padre de familia, entusiasta en ciberseguridad, jugador de ctfs: tryhackme, hackthebox, aprendiz eterno, entrando al mundo de los bugbunties, hacker ètico certificado: EC Council CEH
+Profesor, padre de familia, entusiasta en ciberseguridad, jugador de ctfs: tryhackme, hackthebox, aprendiz eterno, entrando al mundo de los bugbounties, hacker ético certificado: EC Council CEH
 
 Si deseas contactarme, sientete libre de hacerlo: [@hackadvisermx](https://twitter.com/hackadvisermx)
