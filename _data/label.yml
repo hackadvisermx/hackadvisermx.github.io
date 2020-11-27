@@ -6,8 +6,8 @@
 
 
 panel:
-  lastmod: "Actualizaciones Recientes"
-  trending_tags: "Trending Tags"
+  lastmod: "Actualizaciones recientes"
+  trending_tags: "Etiquetas destacadas"
   toc: "Contenido"
 
 post:
