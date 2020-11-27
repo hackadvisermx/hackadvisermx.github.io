@@ -10,4 +10,6 @@ order: 4
 # MIT License
 ---
 
-professor | father| CEH | infosec enthusiast | ctf player: tryhackme hackthebox | eternal newbie | bug hunter wanna be
+Profesor, padre de familia, entusiasta en ciberseguridad, jugador de ctfs: tryhackme, hackthebox, aprendiz eterno, entrando al mundo de los bugbunties, hacker ètico certificado: EC Council CEH
+
+ - Servidor Discord: []
