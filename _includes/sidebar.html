@@ -41,7 +41,7 @@
     <li class="nav-item d-flex justify-content-center {% if tab.url == page.url %}active{% endif %}">
       <a href="{{ tab.url | relative_url }}" class="nav-link d-flex justify-content-center align-items-center w-100">
         <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ tab.title | upcase }}</span>
+        <span>{{ tab.title }}</span>
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
