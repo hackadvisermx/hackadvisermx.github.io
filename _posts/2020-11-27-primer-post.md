@@ -1,7 +1,7 @@
 ---
 title: Primer post
 author: hackadvisermx
-date: 2020-08-08 11:33:00 +0800
+date: 2020-11-27 11:33:00 +0800
 categories: [Blog]
 tags: [presentacion]
 math: true
