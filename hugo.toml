@@ -1,0 +1,27 @@
+baseURL = "https://hackadvisermx.github.io/"
+title = "hackadviser // blog"
+languageCode = "es"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+
+[params]
+  defaultTheme = "auto"
+  disableScrollToTop = false
+  ShowReadingTime = true
+  ShowToc = true
+  ShowCodeCopyButtons = true
+  author = "hackadvisermx"
+  dateFormat = "2006-01-02"
+  comments = true
+  hideFooter = false
+  socialIcons = [
+    { name = "github", url = "https://github.com/hackadvisermx" },
+    { name = "linkedin", url = "https://linkedin.com/in/tuusuario" }
+  ]
+
+[markup.highlight]
+  noClasses = false

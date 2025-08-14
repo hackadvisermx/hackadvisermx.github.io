@@ -1,0 +1,8 @@
+# Hugo
+/public/
+/resources/
+/hugo_stats.json
+
+# OS
+.DS_Store
+Thumbs.db
